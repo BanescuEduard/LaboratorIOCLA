@@ -1,0 +1,2 @@
+Am observat ca flag-ul -O2 comprima foarte mult codul si nu mai foloseste ebp(sfarsitul adresei de memorie), in cazul functiei simple_fn.
+Iterarea prin vector se face folosind marimea acestuia in biti prin variabilele eax, ecx si edx.
